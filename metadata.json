@@ -1,0 +1,6 @@
+{
+  "name": "ALVINA Commerce Admin",
+  "description": "Multi-merchant e-commerce and boutique order management administration panel with delivery tracking, exchange management, and courier integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
